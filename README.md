@@ -5,7 +5,7 @@ Experiments of CNN using datasets of TreeSatAI Benchmark Archive.
 This is an AI project using Python, conducted by Soichiro Tanabe based on the studies from the Open University module: 'AI and Machine Learning'.
 
 ## Data Sources
-Zenodo ([available from Kaggle](https://zenodo.org/records/6780578))
+Zenodo ([available from Zenodo](https://zenodo.org/records/6780578))
 
 ## Research Objectives
 
@@ -18,7 +18,7 @@ Zenodo ([available from Kaggle](https://zenodo.org/records/6780578))
 
 - `Level_1`: Jupyter notebook file and PDF
 - `Level_2`: Jupyter notebook file and PDF
--  'Report.pdf'
+- `Report.pdf`
 - `requirements.txt`
 
 ## License
